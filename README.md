@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently study on Triamudomsuksanomklao School , Bangkok , Thailand
-- 🌱 I’m currently learning Web programming , Data Structure , Artificial Intelligence and BIOLOGY
-- 📫 How to reach me: instagram pperavichhh
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning Web programming , Artificial Intelligence , Physics
+- 📫 How to reach me: instagram : pperavichhh , E-mail pperavichhh@gmail.com
+
 
 ---
 
